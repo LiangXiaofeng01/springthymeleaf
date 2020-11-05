@@ -18,6 +18,7 @@ public class FristThymeleafController {
     @GetMapping("/first")
     public String test1(Model model){
 
+        System.out.println("测试");
         model.addAttribute("first","中公教育欢迎你");
 
         return "index";
