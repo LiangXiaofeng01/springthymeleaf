@@ -1,0 +1,4 @@
+spring:
+  #开始thymeleaf
+  thymeleaf:
+    cache:false
