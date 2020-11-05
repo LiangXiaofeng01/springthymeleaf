@@ -2,6 +2,6 @@ package com.controller;
 
 public class TestController {
     public void t(){
-        System.out.println("我是混子");
+        System.out.println("我是混子1号");
     }
 }
